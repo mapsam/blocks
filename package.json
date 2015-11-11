@@ -1,0 +1,27 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "description": "some blocks for some things, on a page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapsam/blocks.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "scaffolding"
+  ],
+  "author": "Sam Matthews <matthews.sam@gmail.com> (http://mapsam.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapsam/blocks/issues"
+  },
+  "homepage": "https://github.com/mapsam/blocks#readme",
+  "devDependencies": {
+    "node-sass": "^3.4.1"
+  }
+}
